@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barnabymorgan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java and Clojure 
+- 👀 I’m interested in ML/AI
+- 🌱 I’m currently learning python 
 
 <!---
 - 💞️ I’m looking to collaborate on ...
