@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barnabymorgan
-- 👀 I’m interested in ML/AI
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in Data Engineering 
+- 🌱 I’m currently learning Data Engineering
 
 <!---
 - 💞️ I’m looking to collaborate on ...
