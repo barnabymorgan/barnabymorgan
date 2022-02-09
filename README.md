@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @barnabymorgan
-- 👀 I’m interested in Data Engineering 
+- 👀 I’m interested in Python, Systems and Data Engineering
 - 🌱 I’m currently learning Data Engineering
 
 <!---
